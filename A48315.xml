@@ -1,0 +1,514 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A monitor of mortality, the second sermon Occasioned by the death of Mrs. Harpur, a grave and godly matron (wife to Mr. Henry Harpur of the city of Chester) and of the death of their religious daughter Phœbe Harpur, a child of about 12. yeares of age. By Iohn Ley minister of Great Budworth in Cheshiere.</title>
+            <title>Monitor of mortalitie.</title>
+            <author>Ley, John, 1583-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48315</idno>
+            <idno type="STC">Wing L1884A</idno>
+            <idno type="STC">ESTC R216672</idno>
+            <idno type="EEBO-CITATION">99828396</idno>
+            <idno type="PROQUEST">99828396</idno>
+            <idno type="VID">32823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32823)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1953:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A monitor of mortality, the second sermon Occasioned by the death of Mrs. Harpur, a grave and godly matron (wife to Mr. Henry Harpur of the city of Chester) and of the death of their religious daughter Phœbe Harpur, a child of about 12. yeares of age. By Iohn Ley minister of Great Budworth in Cheshiere.</title>
+                  <title>Monitor of mortalitie.</title>
+                  <author>Ley, John, 1583-1662.</author>
+               </titleStmt>
+               <extent>[10], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Christopher Meredith at the Crane in Pauls-Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harpur, --  Mrs --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32823:1"/>
+            <pb facs="tcp:32823:1"/>
+            <p>A MONITOR OF MORTALITY, THE SECOND SERMON.</p>
+            <p>OCCASIONED By the Death of M<hi rend="sup">rs</hi>. <hi>Harpur,</hi> a grave and godly Matron (wife to M<hi rend="sup">r</hi>. <hi>Henry Harpur</hi> of the City of <hi>Cheſter</hi>) and of the death of their Religious Daughter <hi>Phoebe Harpur,</hi> a child of about 12. yeares of age.</p>
+            <p>By <hi>Iohn Ley</hi> Miniſter of <hi>Great-Budworth</hi> in <hi>Cheſhiere.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>GEN. 30.1.</hi>
+               </bibl>
+               <p>Give me children or elſe I die.</p>
+            </q>
+            <q>Parcamus lachrymis nihil proficientibus, faciliùs enim illi nos dolor iſte adijcret, quam illum nobis reducet.
+<bibl>
+                  <hi>Senec. Conſolat. ad Polyb. c.</hi> 23.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Meredith</hi> at the Crane in <hi>Pauls</hi>-Church-yard. M.DC.XLIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32823:2"/>
+            <pb facs="tcp:32823:2"/>
+            <head>To my much HONOVRED AND WOR<g ref="char:EOLhyphen"/>thy Friends <hi>Thomas Standley</hi> Eſquire, and to M<hi rend="sup">rs</hi>. <hi>Elizabeth Standley</hi> his moſt loving and beloved wife: <hi>I.L.</hi> wiſheth increaſe of grace here, and the accompliſhment of grace and glo<g ref="char:EOLhyphen"/>ry hereafter.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is none example of any one dead, but may be an admonitor of the mutabi<g ref="char:EOLhyphen"/>lity of mans estate to any one alive: Since death is not the limited lot of particular perſons, but the common doome of all living creatures, of man<g ref="char:EOLhyphen"/>kind eſpecially, as having alwayes a de<g ref="char:EOLhyphen"/>ſert of the ſentence of death by the guilt of ſinne in his ſoule, and a condition of body ever capable of the execution of that ſentence.</p>
+            <p>But for theſe two <hi>memorandums of Mortality</hi> (now preſented by the Preſſe to publike uſe) the one of a godly <hi>Ma<g ref="char:EOLhyphen"/>tron,</hi> the other of a <hi>gracious maid</hi> her <hi>daughter</hi> (whom I bring in both together, becauſe there was a time, when the mother and the child by their bodily union, were reckoned but for one perſon, and when their bodies were divided, their ſouls were, as was ſaid of the ſoule of <hi>Jacob</hi> and <hi>Benjamin,</hi> as it were bound up in one bundle, <hi>Ge. 44.30, 31.</hi>) they areſo much
+<pb facs="tcp:32823:3"/>more meet to be commended to your memory, as they were the better known unto you, and the more frequent and familiar reci<g ref="char:EOLhyphen"/>procations of reſpect have paſſed betwixt you, &amp; they have bin uſually ſuch and ſo many, that in mine obſervation (for di<g ref="char:EOLhyphen"/>vers years together) ſeldome hath your houſe bin without ſome gueſt of theirs, or theirs without ſome of your Family, and this amicable entercourſe hath been mutually exerciſed with ſuch cheerfulneſſe of affection, as came neare in confor<g ref="char:EOLhyphen"/>mity to the communion of the Primitive Chriſtians (ſo farre as the distance of your ordinary dwellings would permit) and they as <hi>St. Luke</hi> ſheweth in his Story of the <hi>Acts, had all things common,</hi> Act. <hi>2.44.</hi> and this Community (like that profeſſed by <hi>Ruth</hi> to <hi>Naomi, Ruth 1.16.)</hi> hath held on from life to death, from death to buriall: For the daugh<g ref="char:EOLhyphen"/>ter, (whoſe death through the dearneſſe of motherly love was an occaſion of her Mothers tranſlation from a mortall to an immortall life) ſpent her laſt dayes, as one of your houſ<g ref="char:EOLhyphen"/>hold, dyed under your roofe, and lyeth buried in the Church of your both Pariſh and Patronage.</p>
+            <p>And that neither of them might be buried in oblivion, I have now publiſhed that of both to common view, to which I have bin divers times ſollicited by ſuch as were neare enough to them to diſcerne a meere colour of ſanctitie from the ſolid truth of it, and who have too much inte<g ref="char:EOLhyphen"/>grity in them (by ſtraining their owne conſciences) to ſcrue up the credit of others, to an over high commendation: the juſt elevation whereof, (in reference to thoſe two whom death parted for a while, but now hath joyned in their better part for ever) is ſo well knowne to you both, that if what I have written of them, were to come to a legall proofe, I might (for very much of it) produce you two as witneſſes (above ex<g ref="char:EOLhyphen"/>ception) of their well deſerving, and of my true ſpeaking of them, which is one reaſon of my Dedication of their
+<pb facs="tcp:32823:3"/>Funerall Remembrance to your names. Another is the requeſt of him, who had a peculiar right in the Mother (as an husband) a primary right in the daughter as a Father, and a very great Intereſt in me as an ancient familiar and an affectionate friend.</p>
+            <p>But that which hath moved memost unto it, is a deſire I have (ſince beſides all your former favours in our own Coun<g ref="char:EOLhyphen"/>try, you will needs be ſo kind, as to importune me ſo often to the entertainment of your houſe where you are now a ſojourner) to trafficke with you upon the tearms of the Apoſtle, by commerce and exchange of ſpirituall things, for things carnall, <hi>Ro. 15.27. 1 Cor. 9.11.</hi> and the ſpirituall things, wherein for the preſent, I am deſirous to make ſome returne for your favours are an <hi>advice</hi> and a <hi>prayer:</hi> mine <hi>advice</hi> is that (while your conjugall amity is viſibly ſuch, as thoſe that obſerve it, doe very well perceive, you are both very well pleas'd in your choyſe) you would now and then, by meditation of a mortall divorce, prepare not only for cou<g ref="char:EOLhyphen"/>rage to encounter the pangs of death, but (which to either of you may haply prove a more difficult taske) for patience to beare the ſadneſſe of a ſurviving life: For a parting there muſt be betwixt you and yours, as well as others, and it will coſt you the more in griefe (when it commeth) if you doe not prepare and fore-cast for it, by ſerious ſtudy of the hard leſſon of Self-denyall, of what is moſt deare and delight<g ref="char:EOLhyphen"/>full to you before hand: And this I meane not only for the affection communicated betwixt your ſelves, but for that al<g ref="char:EOLhyphen"/>ſo, which (in common) as you are Parents deſcends from you, upon your hopefull children: and which I wiſh may be moderated to ſuch a meaſure as may become the children of an heavenly Father, profeſſing to pray for the fullfilling of his will, (according to the preſcript of the Lords Pray<g ref="char:EOLhyphen"/>er) before your owne; ſo ſhall you be ſure to be gainers by
+<pb facs="tcp:32823:4"/>the greateſt loſse that can be fall you. Now my prayer is that God will be pleaſed ſo to unite your heartieſt devotions and af<g ref="char:EOLhyphen"/>fections in himſelf, that in his favour you may find a Sove<g ref="char:EOLhyphen"/>raigne Antidote against all the diſcomforts of this life, and that after it, you may meet in a bleſſed fruition of him in a better world, wherof there is none end. This ſhall be a part of the daily interceſſion of him, who deſireth to be</p>
+            <closer>
+               <dateline>From my lodging in <hi>Pauls</hi>-Church<g ref="char:EOLhyphen"/>yard, <date>
+                     <hi>June 3. 1643.</hi>
+                  </date>
+               </dateline>
+               <signed>Really and will be ſincerely ſer<g ref="char:EOLhyphen"/>viceable to the welfare of you and yours
+<hi>John Ley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>
+               <hi>Errata</hi> in the firſt Sermon.</head>
+            <p>PAg: a Epiſtle Dedicatory in the marg: for <hi>Tzere:</hi> write <hi>Tzere:</hi> In the verſes p. 1. lin. 2. for <hi>breake,</hi> reade <hi>breath.</hi> lin 21. for <hi>Graces</hi> r. <hi>Iewels</hi> lin. 26 for <hi>cinst</hi> reade <hi>rinſt.</hi> p. 2. lin. 24. for <hi>Eliſha</hi> reade <hi>Elijah</hi> In the Sermon p 2. lin. 7. for <hi>Phyloſopher</hi> reade <hi>Philoſopher.</hi> So alſo p. 21. lin. laſt. p 2. lin. penult, blot out the word <hi>your.</hi> p 3. lin 8. marg alter Applic. blot out 1. p. 4 lin 7. marg. blot out the word <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> p. 5. lin laſt but two marg blot out <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. p. 15. lin. 31. af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the word <hi>ſometimes</hi> reade <hi>is.</hi> p 19 after the laſt lin blot out the laſt word <hi>deadly,</hi> and reade it after the word <hi>no.</hi> p. 20 lin 1. p. 20. lin 6 for <hi>come to paſſe which cannot,</hi> reade <hi>which cannot come to paſſe.</hi> p. 21. marg. for <hi>Plin. Nat. Hiſt. c.</hi> 53 reade <hi>l</hi> 7 <hi>c.</hi> 7. p 29. lin. laſt after the word <hi>full</hi> adde <hi>Gen</hi> 15 16. p. 30 lin 23. for <hi>notion</hi> reade <hi>motion.</hi> p. 33. lin. 27 over againſt the word <hi>divers</hi> adde in the marg. <hi>I. H. Hiſt. of the</hi> 3 Norman <hi>Kings, p</hi> 117, 118, 119, 120. p. 34. lin: 3. blot out the word <hi>So,</hi> and lin 35, for <hi>their life is,</hi> reade <hi>the lives of their Popes are.</hi> p. 37. lin. 11. for <hi>Deut</hi> 3 reade 13.</p>
+         </div>
+         <div type="errata">
+            <head>
+               <hi>Errata</hi> in the ſecond Sermon.</head>
+            <p>Page 1. lin 1. for <hi>Soliciſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> reade <hi>Soloeciſme.</hi> p. 3 lin. 5 for <hi>this</hi> reade <hi>the,</hi> lin. penult. blot out <hi>he.</hi> p 5 lin 10 from the bottome after the word <hi>them</hi> adde <hi>Nor the innocence of thoſe whom they have hated without acauſe,</hi> as I have
+<note n="*" place="margin">In my Faſt Ser<g ref="char:EOLhyphen"/>mon, pag. 30.</note> els where obſerved. p 7 l. penult. blot out <hi>owne.</hi> p. 9. lin. penult for 22. reade 20 p. 13. lin laſt but one, after the word <hi>who</hi> adde <hi>tooke:</hi> and lin. laſt blot out <hi>upon.</hi> p. 14. lin 2. blot out <hi>tooke her death.</hi> p. 14. lin. 14. for <hi>whoſoever</hi> reade <hi>whoſeſoever.</hi> p. 14 lin. laſt but two, after the word <hi>were</hi> blot out <hi>a ſin.</hi> p. 16. lin. 27, after the word <hi>and</hi> reade <hi>that.</hi> p. 17. lin. 11. begin the <hi>Parentheſis</hi> next after the word <hi>well.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:32823:4"/>
+            <head>The principall Contents of the firſt SERMON.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">I</seg>Nſtruction profitably miniſtred by way of que<g ref="char:EOLhyphen"/>ſtion. <hi>Pag.</hi> 2.</item>
+               <item>The profitable uſe of Catechizing. <hi>p.</hi> 3.</item>
+               <item>Too much neglected by ſome, and by others too much urged, to the diſreputation of a ſup<g ref="char:EOLhyphen"/>preſſion of after-noons preaching. <hi>p.</hi> 4,</item>
+               <item>A Catalogue of profitable queſtions for ſelf-examination every day. <hi>p.</hi> 6, 7, 8.</item>
+               <item>The Luxury of <hi>Vitellius,</hi> having 9000. diſhes at a meale. <hi>p.</hi> 7.</item>
+               <item>A Reproofe of,
+<list>
+                     <item>1. Impertinent Queſtio<g ref="char:EOLhyphen"/>niſts. <hi>p.</hi> 9.</item>
+                     <item>2. Trifling. Queſtio<g ref="char:EOLhyphen"/>niſts. <hi>p.</hi> 9.</item>
+                     <item>3. Curious and preſumptuous Queſtio<g ref="char:EOLhyphen"/>niſts. <hi>p.</hi> 10.</item>
+                     <item>4. Diſtruſtfull Queſtio<g ref="char:EOLhyphen"/>niſts. <hi>p.</hi> 10.</item>
+                     <item>5. Blaſphemous Queſtio<g ref="char:EOLhyphen"/>niſts. <hi>p.</hi> 11.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Luthers</hi> cenſure of the Popiſh Schoole-Divines for their igno<g ref="char:EOLhyphen"/>rance of the Bible, <hi>p.</hi> 9.</item>
+               <item>
+                  <hi>Eraſmus</hi> his compariſon of <hi>Luther</hi> and <hi>Aquinas,</hi> and his prefer<g ref="char:EOLhyphen"/>ring of one page of <hi>Luthers</hi> books for profitableneſſe before all <hi>Aquinas</hi> works, <hi>p.</hi> 9.</item>
+               <item>Some ordinary things more worthy of ſerious conſideration then many extraordinary. <hi>p.</hi> 12.</item>
+               <item>The ſhortneſſe of mans life with the cauſes of it, the primary cauſe of it, <hi>p.</hi> 13.</item>
+               <item>Secundary cauſes, 300 ſeverall ſorts of diſeaſes named above 2000 yeares agoe. <hi>Ibid.</hi>
+               </item>
+               <item>Their different manner of working unto death. <hi>p.</hi> 14</item>
+               <pb facs="tcp:32823:5"/>
+               <item>
+                  <hi>Pherecides</hi> eaten up with lice, <hi>Ibid.</hi>
+               </item>
+               <item>Immoderate paſſions and affections of the mind no leſſe deadly then diſeaſes of the body, particular inſtances thereof, <hi>p.</hi> 14, 15 16, 17.</item>
+               <item>The ſent of lime and ſnuff: of a Candle deadly to ſome. <hi>p.</hi> 17.</item>
+               <item>Malignant hoſtility how deadly. <hi>p.</hi> 18.</item>
+               <item>Cruell Malignity in little children. <hi>Ibid.</hi>
+               </item>
+               <item>The deadly cruelty of the Sword. <hi>p.</hi> 19.</item>
+               <item>The vale of the red-Horſe, why ſo called? <hi>p.</hi> 19.</item>
+               <item>Strange accidents deadly to ſome. <hi>p</hi> 20.</item>
+               <item>606 Houſes in <hi>London</hi> blowne downe at one tempeſt. <hi>p.</hi> 21.</item>
+               <item>One choaked with a Reyſon ſtone, another with a Fly, and a<g ref="char:EOLhyphen"/>nother with an haire. <hi>p.</hi> 21</item>
+               <item>Many ſignes of certain death, none of certaine continuance of life. <hi>p</hi> 21, 22.</item>
+               <item>Neither kingly prerogatives nor phyſicall cordials of force a<g ref="char:EOLhyphen"/>gainſt death. <hi>p.</hi> 22.</item>
+            </list>
+            <list>
+               <head>Application.</head>
+               <item>The conſideration of a ſhort and uncertain life may ſerve, for
+<list>
+                     <item>1. A ſpurre unto diligence, <hi>p.</hi> 23</item>
+                     <item>2. A whip or ſcourge for our negligence, <hi>p.</hi> 25, 26, 27.</item>
+                     <item>3. A check to vain confidence. <hi>p.</hi> 27.</item>
+                     <item>4. A curbe to concupiſcence. <hi>p.</hi> 30. 
+<list>
+                           <head>In the deſire of</head>
+                           <item>1. Riches. <hi>p.</hi> 31.</item>
+                           <item>2. Honour. <hi>p.</hi> 32, 33, 34, 35.
+<list>
+                                 <item>
+                                    <hi>Alexander</hi> the great wanted a buriall place 30 dayes after his death. <hi>p.</hi> 33.</item>
+                                 <item>
+                                    <hi>William</hi> the Conquerours buriall often interrupted. <hi>Ib.</hi>
+                                 </item>
+                                 <item>None more unhappy then the Pope with his triple Crowne. <hi>p</hi> 35</item>
+                                 <item>A Pope hardly ſaved by the judgement of a Pope, <hi>p.</hi> 35</item>
+                              </list>
+                           </item>
+                           <item>3. Pleaſures, <hi>p.</hi> 35</item>
+                        </list>
+                     </item>
+                     <item>5. A prop to patience againſt anger or envy at the welfare of the wicked and againſt immoderate ſorrow for decea<g ref="char:EOLhyphen"/>ſed friends. <hi>p.</hi> 36, 37.</item>
+                  </list>
+               </item>
+               <item>A narration of the condition and courſe of Mr. <hi>I. A. p.</hi> 38.</item>
+               <pb facs="tcp:32823:5"/>
+               <item>His travell and returne from <hi>Rome</hi> without corruption in man<g ref="char:EOLhyphen"/>ners or cooling in Religion. <hi>p.</hi> 39, 40</item>
+               <item>His eſcape from dangers and dying where he was thought moſt ſafe. <hi>p.</hi> 41</item>
+               <item>His diſeaſe. <hi>p.</hi> 42.</item>
+               <item>The Devill buſieſt with the beſt when they are at the worſt, 43.</item>
+               <item>Examples of ſuch as have had fearfull conflicts in their faith and doubtings of ſalvation out of which they have bin comforta<g ref="char:EOLhyphen"/>bly delivered. <hi>p.</hi> 43, 44, 46.</item>
+               <item>But if they had not we muſt judge of the godly by their regular life, not by the diſtempers of their ſickneſſe or death, <hi>p.</hi> 45.</item>
+               <item>The pious and comfortable concluſions of the life of M. <hi>I. A. p.</hi> 45 46.</item>
+            </list>
+            <list>
+               <head>The principall Contents of the ſecond Sermon.</head>
+               <item>DEath and Divinity make no difference of Sexes, <hi>p.</hi> 1.</item>
+               <item>Every one ſhould be chary of the life of any man. <hi>p.</hi> 3.</item>
+               <item>Murder deſtroyeth the Image of God, as well as a member of the common-weale, and therfore is a breach of the firſt Table, as well as of the ſecond. <hi>p.</hi> 3, 4.</item>
+               <item>A whole City in danger by the ſlaughter of one man, though they know it not. <hi>p.</hi> 4.</item>
+               <item>The cruelty of the wicked againſt the godly. <hi>p.</hi> 4, 5.</item>
+               <item>Children ſhould be chary of the lives of their Parents, &amp; why. <hi>p.</hi> 6.</item>
+               <item>A good ſon to his Parents below, is a favourite of the father a<g ref="char:EOLhyphen"/>bove. <hi>p.</hi> 7.</item>
+               <item>A bad child a parracide or murtherer of his Parents. <hi>p.</hi> 7, 8.</item>
+               <item>Whence it is that Parents love their children better then chil<g ref="char:EOLhyphen"/>dren do their Parents. <hi>p.</hi> 8, 9.</item>
+               <item>Why <hi>Jacob</hi> was ſo loving to <hi>Beniamin</hi> above the reſt of his bre<g ref="char:EOLhyphen"/>thren. <hi>p.</hi> 9, 10.</item>
+               <item>The beſt ſort of perſons moſt kindly affected to their kindred. <hi>p.</hi> 10, 11, 12.</item>
+               <item>A reproofe of the want of naturall affection. <hi>p.</hi> 12, 13.</item>
+               <item>Some lament more for the loſſe of a dog or an horſe, then others for their neare kindred or friends. <hi>p.</hi> 13.</item>
+               <item>Of two extreams, better to be too kind then too hard-hearted. <hi>p.</hi> 13.</item>
+               <pb facs="tcp:32823:6"/>
+               <item>Yet a fault to exceed moderation in ſorrow for deceaſed friends or kindred. <hi>p.</hi> 14.</item>
+               <item>To die for ſorrow is not to be guilty of a ſin unto death. <hi>p.</hi> 14, 15</item>
+               <item>A young Saint an old devill, one of the devils proverbs. <hi>p.</hi> 16.</item>
+               <item>Signes of ſaving grace in a young child. <hi>p.</hi> 16, 17.</item>
+               <item>An hiſtoricall paſſage touching dancing on the Sabbath day to ſave life, whether lawfull to do ſo to eſcape ſuch a danger? <hi>p.</hi> 17</item>
+               <item>The charity of <hi>Ph. H.</hi> anſwerable to her piety, and both rare in a child of her age. <hi>p.</hi> 18.</item>
+               <item>Parents more honoured by good children, then children by good Parents. <hi>p.</hi> 18.</item>
+               <item>The good diſpoſition and religious life of M<hi rend="sup">rs</hi>. <hi>H.</hi> her mother. <hi>p.</hi> 19, 20, 21, 22.</item>
+               <item>Godly examples to be ſet forth for others imitation. <hi>p.</hi> 22</item>
+               <item>Wicked men believe not Gods children to be indowed with ſuch gifts and graces as they have. <hi>p.</hi> 22, 23.</item>
+               <item>An acknowledgement of the gift and power of prayer in a mean man by a great Prelate. <hi>p.</hi> 23.</item>
+               <item>Yet all have not the gift that take it upon them. <hi>p.</hi> 24.</item>
+               <item>No example of meere man a perfect patterne of imitation, <hi>p.</hi> 24.</item>
+               <item>Conſiderations for the patient bearing of croſſes; firſt from God, both in regard of his authority over us, and of his intention towards us and ours. <hi>p.</hi> 24.</item>
+               <item>God cals away our friends to call our ſins to our remembrance. <hi>p.</hi> 25.</item>
+               <item>Our ſin towards them may be idolatry, and the cure of idolatry is to take away the I doll. <hi>Ibid</hi>
+               </item>
+               <item>The godly taken away from the evill to come. <hi>p.</hi> 26.</item>
+               <item>The caſe worſe with the ſurviver then with the decedant, <hi>p.</hi> 26.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="2" type="sermon">
+            <pb n="1" facs="tcp:32823:6"/>
+            <head>THE MONITOR OF MORTALITY, The ſecond SERMON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GEN. 44. v. 3.</hi>
+                  </bibl>
+                  <p>It ſhall come to paſſe when he ſeeth that the Lad is not with us, that he will die.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is no Soliciſme in preaching, to bring in the Example of a Father and his ſonne (linked in love together, even unto death) for the ground of our Commemoration of a Mother and her daughter, betwixt whom there was as neare kindred, not only of bloud, but of affe<g ref="char:EOLhyphen"/>ction: for neither death maketh difference of Sex (as every one knoweth) nor yet Divinity, ſince both Religion, and the reward of it, belongs unto both Sexes, by an equall right, and though Chriſt were of the male-kind, in Chriſtianity there is no difference; <hi>There is neither Jew nor Greeke, there is neither bond nor free, there is neither male nor female, for ye are all one in Chriſt Jeſus,</hi> Gal. 3.28.</p>
+            <p>It is all one then (as to that we intend) to preſent you with
+<pb n="2" facs="tcp:32823:7"/>
+               <hi>Jacob,</hi> loving his ſonne ſo much, that he could not live with<g ref="char:EOLhyphen"/>out him, as if we tooke for our Text, Rachel <hi>Weeping for her children, and would not be comforted, becauſe they were not,</hi> Math. 2.18. and in ſome reſpects (as we ſhall ſhew before we have done) <hi>Jacobs</hi> example is more conſiderable then <hi>Rachels,</hi> and withall more pertinent to our purpoſe, which that you may the more perſpiculouſly perceive, ſome precedent paſſages of this verſe muſt be obſerved, which may come in with good due coherence to the Text thus.</p>
+            <p>There was <hi>a generall Famine over all the face of the Earth,</hi> Gen. 41.56. except in <hi>Aegypt</hi> (ſo farre as was knowne to the <hi>Ae<g ref="char:EOLhyphen"/>gyptians</hi>) thither did <hi>Jacob</hi> ſend all his ſonnes he had with him, except <hi>Beniamin,</hi> for him he would not ſend, <hi>Gen.</hi> 42.4. for a ſup<g ref="char:EOLhyphen"/>ply of food againſt the famine comming to <hi>Aegypt</hi> their brother <hi>Joſeph</hi> (not known as a brother, and honoured as a Prince) fur<g ref="char:EOLhyphen"/>niſheth them with proviſion, but with condition to come a<g ref="char:EOLhyphen"/>gaine, and to bring <hi>Beniamin,</hi> their (but eſpecially his owne) brother with them, and (untill hee come) hee requireth one of them to ſtay with him (as a pledge for his ap<g ref="char:EOLhyphen"/>pearance) and he was <hi>Simeon.</hi> Returning to their Father without him, they related to him, what <hi>Ioſeph</hi> required, and treated with him, that they might bring his dearely beloved <hi>Benlamin</hi> with them; with much adoe (eſpecially by the pru<g ref="char:EOLhyphen"/>dent importunity of <hi>Iudah,</hi> he yeelded to ſend him, and ſo they went all together into <hi>Aegypt:</hi> There <hi>Ioſeph</hi> (having pow<g ref="char:EOLhyphen"/>er to act any part he pleaſed) whether in jeſt or in earneſt) put a fallacy upon them, which troubled them all, for be cau<g ref="char:EOLhyphen"/>ſed his Steward to ſteale his Cup into <hi>Beniamins</hi> ſacke; and (when they were in their way) to follow them with hue and cry, who having overtaken them, and charged them with felony, they plead not guilty, and yeeld to have their ſacks ſear<g ref="char:EOLhyphen"/>ched, and that he in whoſe ſack the Cup ſhould be found, ſhould be his ſervant.</p>
+            <p>
+               <hi>Beniamin</hi> is the party, who for the preſent is taken for a Theefe, and now (for ought he knoweth) is for hereafter to be uſed like a ſlave. <hi>Iudah</hi> (having deeply engaged himſelfe to his Father for his ſafe returne, for (ſaid he) <hi>I will be ſurety for him, of mine hand ſhalt thou require him; If I bring him
+<pb n="3" facs="tcp:32823:7"/>not unto thee, and ſet him before thee, let me beare the blame for ever,</hi> Chap. 43. ver. 9.) pleaded earneſtly with <hi>Joſeph</hi> for his releaſe, that he may reſtore him to his Father, according to his former undertaking: And the Argument he moſt preſſed to this purpoſe was, that unleſſe this good mans heart be up<g ref="char:EOLhyphen"/>held by <hi>this ſonne of his right-hand</hi> (for that is the ſignification of his name) it would ſinke downe into the grave, and ſo he would prove a <hi>Benoni</hi> (as his mother called him) that is, <hi>a Sonne of ſorrow,</hi> not only to her, (who dyed in labour of him, <hi>Gen.</hi> 35.18, 19.) but to his Father, who (if he ſaw him not with them) would ſuppoſe he was dead, and the apprehenſi<g ref="char:EOLhyphen"/>on of that, would be the ſhortening of his life, by exceſſive ſorrow for his death: for as <hi>Iudah</hi> ſaid, <hi>His life was bound up in his ſonnes life;</hi> and being bound together, they were both ſafe in the ſame ſecurity, or both loſt by one miſhap, at leaſt <hi>Iacob's</hi> life ſo depended upon <hi>Beniamins,</hi> that if <hi>Beniamin</hi> did not live, <hi>Iacob</hi> muſt die.</p>
+            <p>Having brought in the Coherence of the words of the Text with the precedent Story, we muſt now conſider them firſt to<g ref="char:EOLhyphen"/>gether, then a part.</p>
+            <p>For the firſt, ſince <hi>Iudah</hi> pleading with <hi>Ioſeph,</hi> as a great Courtier and a Stranger to him, both in blood and Religion, (for ought he knew) perſwadeth the deliverance of the Son, for the prevention of the death of the Father, we may thence obſerve. <hi>That every man ſhould be chary of the life of any man:</hi> For every man in this caſe was as much bound to regard the perſon of another, as <hi>Ioſeph</hi> was, and <hi>Iacob</hi> was no more to him (in <hi>Iudahs</hi> apprehenſion) then any other man. And the reaſon is, for that to hinder or
+<note n="*" place="margin">Si non pave<g ref="char:EOLhyphen"/>ris occidiſti.</note> with-hold any preſervative of life, is to make a man guilty of anothers death, and that is murder; and murder is a ſin not only againſt humane ſociety, but againſt divine Majeſty. That it is againſt the firſt, is eaſily confeſt by all, I need not prove it. And that it is againſt the ſecond, is ſhewed in the ninth of <hi>Geneſis,</hi> where God enacting a penall law for a capitall puniſhment againſt a Man-ſlayer, in theſe words, <hi>Who ſo ſheddeth mans blood, by man ſhall his blood be ſhed:</hi> he giveth this reaſon for ſuch retaliation, <hi>For in the Image of God made he man,</hi> Gen. 9.6. So that he that killeth another,
+<pb n="4" facs="tcp:32823:8"/>not only deſtroyeth a member of the Common-weale, but de<g ref="char:EOLhyphen"/>faceth the Image of God, and ſo though the prohibition of killing be ſorted to the negative precepts of the ſecond Table, the guilt of it is as a breach of the firſt Commandement of the firſt Table.</p>
+            <p>Becauſe the point is but covertly implyed,
+<note place="margin">Applic.</note> not plainly ex<g ref="char:EOLhyphen"/>preſt, I will not be long in proſecution of it: and in ſhort it may ſerve for Caution to all, that they be not any way guilty, either by committing of violence againſt the life of another, or omitting any Act of benevolence, which may ſerve to pre<g ref="char:EOLhyphen"/>ſerve it; for the leaſt degree of guilt, which hath any affinity with that crying crime, may raiſe the tempeſt of a troubled conſcience within a man, and bring downe a ſtorme of venge<g ref="char:EOLhyphen"/>ance from above upon him: From this ſinne, we ſhall be diſ<g ref="char:EOLhyphen"/>poſed to keepe a further diſtance, if we conſider the Law in caſe of killing, <hi>Deut.</hi> 21. from the firſt verſe to the ninth in<g ref="char:EOLhyphen"/>cluſively, where we reade, <hi>That if a man were ſlaine in the field, and the Man-ſlayer were not knowne, the Elders of the next City to the ſlaine man (which if it were not apparent other<g ref="char:EOLhyphen"/>wiſe, muſt be tryed by meaſure from the place of the dead round about) muſt offer Sacrifice,</hi> ver. 4. And <hi>though neither their hands did ſhed the bloud, nor their eyes ſee it,</hi> verſ. 7. (by which is meant, that they were altogether innocent and ig<g ref="char:EOLhyphen"/>norant of it) yet muſt they deprecate the imputation of the bloud-ſhed, in this manner. <hi>Be mercifull, O Lord, unto thy people</hi> Iſrael, <hi>whom thou haſt redeemed, and lay not innocent bloud unto the people of</hi> Iſraels <hi>charge, and the bloud ſhall bee forgiven them,</hi> ver. 8. <hi>So ſhalt thou put away the guilt of in<g ref="char:EOLhyphen"/>nocent bloud from among you, when thou ſhalt do that which is right in the ſight of the Lord,</hi> v. 9.</p>
+            <p>Secondly, If by the killing of one man, a whole City (though neither conſenting to it, nor knowing who did it) muſt thus farre profeſſe their clearneſſe from it, and yet offer Sacrifice, and pray, that they may not be accounted as guilty of it, how deepe is their guilt, how dangerous their State, who make no ſcruple to make a
+<note n="*" place="margin">
+                  <hi>Pariſienſis horrenda la <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie<g ref="char:EOLhyphen"/>na in nuptijs</hi> Henrici <hi>Regis</hi> N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>varrae. <hi>Luc. Oſia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. Epit. Cent.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>600. <hi>l.</hi> 3. <hi>c.</hi> 69. <hi>part alt. p.</hi> 832.</note> City a Shambles of bloud-ſhed? And thinke it their greateſt glory, when they wade deepeſt in blood, not of <hi>Turkes</hi> and <hi>Infidels,</hi> but of Chriſtians, eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="5" facs="tcp:32823:8"/>of thoſe whoſe bloud (next unto the bloud of Chriſt) is moſt precious in the eyes of God? wherein they revell with ſuch a bold and boundleſſe bloud-guiltineſſe, as if they might and meant to heare, ſome comparative acclamations of them<g ref="char:EOLhyphen"/>ſelves, and ſome other man of bloud and <hi>Beliall,</hi> like that in the firſt of <hi>Samuell</hi> the 18. Saul <hi>hath ſlaine his thouſands and</hi> David <hi>his ten thouſands,</hi> verſe 7. But moſt unlike it in this, for that <hi>Davids</hi> valour was exerciſed upon the enemies of God, their violence rageth againſt his deareſt favourites; for whoſe ſecurity he hath entred a Caveat in the Courts of Kings, <hi>Pſal.</hi> 105. <hi>He ſuffered no man to doe them wrong, yea he reproved Kings for their ſakes,</hi> ver. 14. ſaying, <hi>Touch not mine annoynted, and doe my Prophets no harme,</hi> ver. 14, 15. which they that dare diſobey, <hi>When he maketh inquiſition for blood, he will remember them, and not forget the cry of the humble,</hi> Pſal. 9.12. <hi>whoſe bloud will cry</hi> (as <hi>Abels</hi> did, <hi>Gen.</hi> 4.10.) <hi>for vengeance againſt theirs,</hi> and God will heare it and <hi>avenge</hi> it too, <hi>Rom.</hi> 19.2. and his vengeance will be ſuch, as (if they did apprehend it as God will inflict it,) would put them into the extremity of <hi>Belſhazzar</hi> (<hi>when he ſaw the fingers of a mans hand-writing, the doome of his ruine upon the plaiſter of the wall, which made his countenance to be changed, his thoughts to be troubled, the ioynts of his loynes to be looſed, and his knees to ſmite one againſt another,</hi> Dan. 5.5, 6. but it may be, <hi>Hee that was a murtherer from the beginning,</hi> Joh. 8.44. whoſe ſlaughter-men they are) and a jugling impoſtor too, <hi>who blin<g ref="char:EOLhyphen"/>deth the minds of them that believe not,</hi> 2 Cor. 4.4. will not ſuf<g ref="char:EOLhyphen"/>fer their blood-ſhotten eyes to ſee the guilt of their cruell hearts and hands, untill they feele the weight of Gods reven<g ref="char:EOLhyphen"/>ging hand upon them.</p>
+            <p>After this Obſervation of the words taken together, wee muſt take them apart, and ſo take notice of two remarkable ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p>The one is of <hi>Iudahs</hi> care of the life of his Father <hi>Iacob.</hi>
+            </p>
+            <p>The other of <hi>Iacobs</hi> danger of death by the loſſe of his ſon <hi>Beniamin.</hi>
+            </p>
+            <p>The former I ſhall diſpatch in briefe (intending more co<g ref="char:EOLhyphen"/>piouſly to proſecute the latter, as being more pertinent to our
+<pb n="6" facs="tcp:32823:9"/>preſent purpoſe) noting it as a diſpoſition worthy of praiſe in him, fit to be a patterne for the practice of Children towards their Parents, <hi>viz.</hi> to be charie of their lives, and ſo was <hi>Joſeph</hi> as well as <hi>Judah,</hi> and (having more power) he ſhew<g ref="char:EOLhyphen"/>eth it more then <hi>Judah</hi> did or could do, and in that wherein <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> might have equalled him, hee ſuffered <hi>Joſeph</hi> to go beyond him; the five laſt Chapters of <hi>Geneſis</hi> conteine an excellent ſto<g ref="char:EOLhyphen"/>ry which may both inſtruct Children in their filiall duty, and (if they marke it as they ought) will much induce them to per<g ref="char:EOLhyphen"/>forme it, for which the grounds are laid in nature, and upon them may be built conſiderations of Religion.</p>
+            <p>For that Children ſhould be chary of the lives of their Parents, is Natures immediate inſtinct without any exerciſe of reaſon or diſcipline of Religion; and thus all the world over (the bruite creatures not excepted) yea ſome of them are no<g ref="char:EOLhyphen"/>ted for example of very kind and tender love and care of their parents; for the young Storkes as
+<note n="*" place="margin">
+                  <hi>Plin. nat. biſt.</hi> l. 10. c. 24.</note> 
+               <hi>Pliny</hi> obſerveth, will keepe and feed them when they are old, as they themſelves were nou<g ref="char:EOLhyphen"/>riſhed by them when they were young.</p>
+            <p>Secondly, The dictate of naturall reaſon requires it, that Children ſhould be carefull to prolong the lives of their Parents, for</p>
+            <p>Firſt, They are (under God) the meanes of the beginning of life and being unto them.</p>
+            <p>Secondly, They are (under God againe) the meanes of the con<g ref="char:EOLhyphen"/>tinuance of their life and well-being.</p>
+            <p>And for Religion, God calleth for this care in the fifth Com<g ref="char:EOLhyphen"/>mandement, where (under the word <hi>Honour</hi>) all filiall duties are commanded, and under the prohibition of killing (in the ſixt) whatſoever may tend unto it is forbidden, and the contrary is virtually injoyned, that is, whatſoever may conduce to the pre<g ref="char:EOLhyphen"/>ſervation of life, eſpecially of thoſe to whom (by divine and hu<g ref="char:EOLhyphen"/>mane law) we are moſt obliged.
+<note place="margin">Applic.</note>
+            </p>
+            <p>This I could wiſh Children would apply unto themſelves, whether their Parents be dead or alive; if they be dead, to ex<g ref="char:EOLhyphen"/>amine their own precedent carriage towards them, whether they have not given them any cauſe, or been an occaſion to ha<g ref="char:EOLhyphen"/>ſten their deaths; and if they have, to mourne more for their
+<pb n="7" facs="tcp:32823:9"/>own ſinnes in ſecret, then they ſeemed to doe (at their Parents funerall) in publike; if they have them yet alive, ſeriouſly to recount what cauſes they have to deſire their life, and to doe their beſt indeavour to prolong their dayes, cheriſhing them in their old age, as they were cheriſhed by them in their infan<g ref="char:EOLhyphen"/>cy; ſo did good <hi>Joſeph</hi> by his aged Father <hi>Jacob,</hi> for <hi>he nouriſhed him, and his bretheren, and all his houſhold</hi> (for his ſake) <hi>with bread,</hi> or (as ſome reade the words) as a little child is nou<g ref="char:EOLhyphen"/>riſhed, <hi>Gen.</hi> 46.12. or according to the Hebrew) even to the mouth of the little one, that is, from the greateſt to the leaſt, or with ſuch tenderneſſe, as that wherewith a Nurſe feedeth her little one, or with as little care or pains to <hi>Jacob,</hi> and thoſe of his family, as little children uſe to take in providing for themſelves; and while they ſhew ſuch a chary diſpoſition towards their health and welfare, they ſhall thereby get themſelves an inte<g ref="char:EOLhyphen"/>reſt in that gracious promiſe of the Father of Spirits, annexed to obſervation of the fift Commandement, which is, <hi>length of days,</hi> for to that precept, <hi>Honour thy Father and thy Mother,</hi> is annexed this promiſe, <hi>that thy dayes may be long in the Land which the Lord thy God giveth thee;</hi> and if from children they grow up to the de<g ref="char:EOLhyphen"/>gree of Parents, and have children of their own, they ſhall repay them the obſervance and ſuccour which they have performed to their Progenitors before.</p>
+            <p>And on the contrary, the praiſe of ſuch good ſonnes, muſt ſerve to the reproach of ſuch bad children, as wickedly re<g ref="char:EOLhyphen"/>quite the bleſſing of their Parents, by wiſhing for their death, who were the meanes to bring them to life, and to preſerve them alive by their tenderneſſe over them, in the time of their ignorant and impotent minority; thence was the obſervation of the heathen Prophet, (ſo the Apoſtle calls a Poet, <hi>Tit.</hi> 1.12.)
+<note n="*" place="margin">Filius ante diem patrios in<g ref="char:EOLhyphen"/>quirit in anno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> the Sonne inquires into his Fathers yeares before his time, thinking it long before he be wrapt in a white ſheet, and him<g ref="char:EOLhyphen"/>ſelfe clad in a black ſuite, that he may have a merry heart un<g ref="char:EOLhyphen"/>der a mournfull habit. Such as have ſo little both of Grace and good-nature, as to deſire the diſpatch of their Parents, com<g ref="char:EOLhyphen"/>monly do ſomwhat which may be like to leſſon the meaſure of their owne lives, as their yoking themſelves unſutably without their Parents conſent, or againſt their minds; the thought of
+<pb n="8" facs="tcp:32823:10"/>ſuch a thing was ſo great a griefe unto <hi>Rebecca,</hi> as cauſed her paſſionatly to ſay, <hi>I am weary of my life (becauſe of the daughters of</hi> Heth; <hi>if</hi> Jacob <hi>take a wife of the daughters of</hi> Heth, <hi>(ſuch as theſe which are of the daughters of the Land) what good will my life doe me?</hi> Gen. 27.46. and ſuch a griefe as makes one weary of life, weares out the life before the time.</p>
+            <p>In this reſpect, many children become Parricides of their own Parents, by ſuch heard-hearted ſtubborneſſe in wicked wayes, as makes them worthy of <hi>ſtoning to death</hi> by the Law of God, <hi>Deut.</hi> 21. <hi>ver.</hi> 20, 21. whoſe want of grace and good nature, with their groſſe ungratitude (returning for all their Parents tenderneſſe and indulgence towards them, nothing but what may offend and afflict them) is ſo much more grievous, as (in relation and affection) they were more neere and deare un<g ref="char:EOLhyphen"/>to them. Of the 23. wounds given to <hi>Caeſar</hi> in the Senate-houſe, (whichſoever was moſt deepe and deadly) ſurely that was moſt grievous to his heart, which he tooke from the hand of <hi>Brutus,</hi> when he ſaid unto him,
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sueton.</hi> in <hi>Jul. Caeſar.</hi> cap. 82.</note> 
+               <hi>and thon my ſonne? art thou one to kill me, who have loved and cared for thee, as a Father for<g ref="char:EOLhyphen"/>his ſonne?</hi> And howſoever the fore-cited penall Statute, <hi>Deut.</hi> 21. be not in uſe among the Chriſtians, (yet it is no more a meere <hi>Jewiſh</hi> Law, then the ſinne is meerely <hi>Jewiſh,</hi>) God ſel<g ref="char:EOLhyphen"/>dome ſuffers a very rebellious ſonne (unleſſe he become a gra<g ref="char:EOLhyphen"/>cious convert (which is very rare) to paſſe unpuniſhed in this life; and many times his puniſhment is of that kind, which may bring his own ſinne to remembrance, his child revenging upon him his owne miſcarriage towards his Parents. Thus much of <hi>Judahs</hi> care of the life of his Father <hi>Jacob.</hi> Now of Jacobs <hi>danger of death by the loſſe of</hi> Benjamin, <hi>It ſhall come to paſſe,</hi> &amp;c. the reaſon of this great danger of <hi>Jacob,</hi> was his deare love to <hi>Benjamin</hi> (very deare (doubtleſſe) if it had coſt him his life) which is commonly greater in the Father to the child, then is reciprocated from the child to the Father; haply Firſt, becauſe the child is better and longer knowne unto the Father then the Father to the child, both for certainty of truth and continuance of time.</p>
+            <p>Secondly, Becauſe naturall affection (as the Lawyer ſpeakes of inheritance) rather deſcends from the Parents to the children,
+<pb n="9" facs="tcp:32823:10"/>then aſcends from the children to the Parents.</p>
+            <p>Thirdly, the diſcipline of Parents, is many times grievous to their children, croſſing their wills and wayes, and ſome<g ref="char:EOLhyphen"/>times ſeverely chaſtiſing them for their failings of duty, or tranſgreſſions againſt it; all which are commonly as unpleaſing unto them, as profitable for them.</p>
+            <p>Fourthly, Parents expect in their children to live, when themſelves are dead; and to be perpetuall in their ſucceſſion, while themſelves are but temporall and tranſitory: and chil<g ref="char:EOLhyphen"/>dren take their Parents (too many times) to be impediments, if not to their lives, yet to their comfortable living, in kee<g ref="char:EOLhyphen"/>ping Inheritance, Honours, Offices from them, and reſtraint of their liberty, which they cannot expect (in a full fruition) untill they be dead.</p>
+            <p>And for <hi>Jacobs</hi> love to <hi>Benjamin,</hi> it appears to be more then to the reſt of his ſons, by the ſaying of <hi>Judah, he loveth him</hi> (ſaith he) <hi>Gen.</hi> 44.20. and ſo he did all his other children, but his words imply, that he loved him in an eſpeciall manner and meaſure above his bretheren; ſo that they as not beloved, or little be<g ref="char:EOLhyphen"/>loved in reſpect of him, are not named as partakers of his love; and he ſheweth his love to <hi>Benjamin,</hi> by being ſo fearfull of his life, for he would not let him goe, <hi>lest death ſhould befall him in the way,</hi> Gen. 42.4. any of the reſt might have dyed as well as he; but his care, his feare and his love were all for <hi>benjamin,</hi> in a very eminent degree, and that made him ſo ſtiffe againſt the intreaties and undertakings of <hi>Judah</hi> and of <hi>Ruben,</hi> who when he had offered his two ſonnes for ſecurity for one (yea and as for ſacrifice alſo; for he ſaid, <hi>ſlay my two ſonnes,</hi> Gen. 42.37. <hi>if I bring him not againe,</hi>) he could obtaine none other anſwer but this; <hi>My ſonne ſhall not goe downe with you,</hi> ver. 38. hee would have that ſon never go downe or ſet, but alway to ſhine within his horizon.</p>
+            <p>And the reaſon of this love (if ſuch an heate and height of af<g ref="char:EOLhyphen"/>fection, were not rather an aberration from reaſon) may be: be<g ref="char:EOLhyphen"/>cauſe he was the ſonne of his moſt beloved wife <hi>Rachel,</hi> for whom he ſerved ſeven yeares, which yet (ſuch was his love un<g ref="char:EOLhyphen"/>to her) <hi>ſeemed unto him but a few dayes,</hi> Gen. 29.22.</p>
+            <p>Secondly, Becauſe he was deare bought, for while ſhe la<g ref="char:EOLhyphen"/>boured
+<pb n="10" facs="tcp:32823:11"/>boured to give life and liberty to him, ſhe loſt her own, <hi>Gen.</hi> 35.19. In other caſes, whoſoever is the cauſe, occaſion or inſtru<g ref="char:EOLhyphen"/>ment of a friends death, is commonly diſtaſted, ſometimes de<g ref="char:EOLhyphen"/>teſted; but here innocency pleades againſt all imputation of guilt and blood, and kindred and neereneſſe of blood, appre<g ref="char:EOLhyphen"/>hends the miſhap at firſt with griefe, not with grudge, and af<g ref="char:EOLhyphen"/>ter a time (when ſorrow is aſſwaged concerning the dead) pitty and compaſſion, love and delight, doe exerciſe their ope<g ref="char:EOLhyphen"/>ration upon the living, with ſo much more tenderneſſe, as the loſſe is the greater not only to the Father, but much more to the child: ſince it is more like that his loſſe may be ſupplied by another wife, then the childs by another mother.</p>
+            <p>Thirdly, Becauſe his brother <hi>Joſeph,</hi> (who was dearely belo<g ref="char:EOLhyphen"/>ved of his Father,) was ſuppoſed to be dead, and ſo <hi>Benjamin</hi> ſurviving, was heire to the love that belonged to him: and ſo he loved him the more, in that he was not only <hi>Rachels</hi> ſonne, but <hi>Joſephs</hi> brother, and in whoſe Name and right he was to inherit an high degree of love, <hi>for</hi> Jacob <hi>loved him more then all his children,</hi> Gen. 37.3.</p>
+            <p>Fourthly, The Reaſon of <hi>Jacobs</hi> great love to <hi>Joſeph,</hi> was, becauſe he was <hi>the ſon of his old age,</hi> as is noted in the forenamed <hi>verſ.</hi> which hath ſo much the more force on <hi>Benjamins</hi> part, as he was younger then <hi>Joſeph,</hi> and <hi>Iacob</hi> conſequently ſo much elder when he begate him; and to give a reaſon of this reaſon, the old Father delights ſo much more in his young child, as to be a Father in old age, is an argument of more favour from God, in ſupporting his bodily ability ſo farre, or making ſupply of it by his own power where it is deficient.</p>
+            <p>Fiftly, Though naturall ſtrength be more feeble and faint to<g ref="char:EOLhyphen"/>wards the end of life, naturall affection is more vigorous in its courſe the longer it laſteth, and therefore the love of old age towards young ones, is many times a meere dotage, whereby he that was once a man, growes the ſecond time a child, and the more childiſh, the more like to exceed in the love of children. But we will abſtract from the particular conſiderations of <hi>Ia<g ref="char:EOLhyphen"/>cobs</hi> love to <hi>Benjamin,</hi> and propound an obſervation of more generall uſe, which is this, <hi>That the best kind of perſons are moſt kindly affected to their kindred.</hi> Of this you have had
+<pb n="11" facs="tcp:32823:11"/>evidence enough in <hi>Jacob</hi> already; and the next remarkeable inſtance is <hi>Joſeph,</hi> who though he perſonated an <hi>Egyptian</hi> Prince) and pretended rigour towards his bretheren, while they know him not (for he accuſed them for ſpies, ſent af<g ref="char:EOLhyphen"/>ter them as thieves, put them all together three dayes in ward, yet (all that while) his heart was tenderly affected towards them, and <hi>turning his face from them he wept,</hi> Gen 42.24. he tooke upon him to act the part of a ſterne Governour, but his kind heart put him out of it, and he was faine to turne aſide that he might not bewray it, and for that time he ſuppreſſed his compaſſion; but his kindneſſe broke out againe, and his bowels yearned upon his brother, and he ſought where to weepe, and <hi>he entred into his chamber and wept there,</hi> Chap. 43.30. and when he revealed himſelfe unto them, he manifeſted his love very free<g ref="char:EOLhyphen"/>ly and fully, <hi>for he fell upon his brother</hi> Benjamins <hi>neck and wept, and</hi> Benjamin <hi>fell upon his neck, and he kiſſed all his brethren, and wept upon them,</hi> Gen. 45.14, 15.</p>
+            <p>There be many vigorous reaſons of the vehement affections of ſuch as are linked to others in this kind of love; eſpecially of Parents to their children, which is the track we muſt take for our way at this time.</p>
+            <p>Firſt, An impreſſion of Nature, which we may obſerve in a deſcending, as we have done before in an aſcending operation, in unreaſonable creatures, for the Sea-monſters hold forth their breaſts unto their young, <hi>Lament.</hi> 4.3. which (by the way) ſhames many nice Ladies and Gentlewomen, that are not ſo kind as to give ſuck to their owne children, and the Beares robbed of their whelpes; are extremely enraged, 2 <hi>Sam.</hi> 17.8. and rage towards thoſe that take them, is an effect of loving af<g ref="char:EOLhyphen"/>fection to thoſe that are taken from them.</p>
+            <p>Secondly, But where rationall knowledge is added to na<g ref="char:EOLhyphen"/>turall affection, there it groweth to an higher degree of good<g ref="char:EOLhyphen"/>will; For the things we know not at all (as the vulgar
+<note n="*" place="margin">Ignoti nulla cupido.</note> Pro<g ref="char:EOLhyphen"/>verbe ſaith) we have no deſire of. If we know them but lit<g ref="char:EOLhyphen"/>tle, we like them but little (though they be never ſo good) and if our knowledge of them be much, our liking of them will be according to the proportion as much; And if nature begin, and good acquaintantance goe on, it takes degree from
+<pb n="12" facs="tcp:32823:12"/>favour to friendſhip, and the affection of friends is the mar<g ref="char:EOLhyphen"/>riage of ſoules, <hi>Deut.</hi> 13.6. ſo far it ſeemeth did the love of <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> proceed; for it is ſaid (in the originall) that his ſoule was bound to his ſoule, that is, to the ſoule of <hi>Benjamin.</hi>
+            </p>
+            <p>Thirdly, there is yet a further incentive to this affection, if there be any good parts (in the party beloved) <hi>whether of the body,</hi> as beauty (which made <hi>David</hi> ſo kind (if we may not ſay fond) to his beautifull <hi>Abſalom,</hi> as to wiſh that himſelfe had dyed that he might have lived, 2 <hi>Sam.</hi> 19.33.) <hi>or of minde,</hi> which is a more generous object of love, becauſe mentall en<g ref="char:EOLhyphen"/>dowments are more excellent then corporall.</p>
+            <p>Fourthly, If with all this, Religion come in with its opera<g ref="char:EOLhyphen"/>tion and intereſt, and both parties be uniformely pious, then is love moſt accompliſhed, and cometh neere to perfection.</p>
+            <p>How many of theſe cauſes of love concurred in <hi>Jacobs</hi> caſe we cannot tell, but ſure we are (where they all meete in one object, they muſt needs be very potent, and the griefe of loſſe of the party ſo beloved (eſpecially if it be ſodaine and unex<g ref="char:EOLhyphen"/>pected) will be anſwerable to it; for love is the ſtandard to all the affections, or as the mould whence they take both figure and meaſure.</p>
+            <p>The Application hereof, we muſt ſerve in with ſeverall ſawces of vineger and oyle, according to the different temper of thoſe that have need of it. Some are ſharpely to be repro<g ref="char:EOLhyphen"/>ved, ſome ſoftly and gently to be dealt withall; the firſt are ſuch as the Apoſtle bringeth in (in his bead-roule of offenders) by name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, without naturall affection, 2 <hi>Tim.</hi> 3.3. as if their hearts were hewed out of the rock, or at leaſt might be ſaid to be hearts of Oake.</p>
+            <p>It is a part of the diſcipline of the Stoicks, to caſt off all paſ<g ref="char:EOLhyphen"/>ſions and perturbations (as being the diſtempers of ſuch as are weake and unwiſe, rather then the qualifications of thoſe that are eſtabliſhed by prudence, and ruled by reaſon) and to dry up that <hi>humidum radicale</hi> of kindneſſe, which is apt to melt into teares of tenderneſſe; and they argue themſelves into a Stock-like ſtillneſſe and dryneſſe, by this
+<note n="*" place="margin">
+                  <hi>Neminem flebo laetum ne<g ref="char:EOLhyphen"/>minem fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntem ille lachrymas meas ipſe ab<g ref="char:EOLhyphen"/>ſterfit, hic ſuis lachrymis effe<g ref="char:EOLhyphen"/>cit ne illis dig<g ref="char:EOLhyphen"/>nus ſit,</hi> Seneca, <hi>de Tranquil.</hi> l. 1. c. 15. p. 147.</note> Dilemma; <hi>if a man be merry he prevents the uſe of teares, if he weepe, his own teares doe make him unworthy of mine,</hi> and ſome be hard-hearted
+<pb n="13" facs="tcp:32823:12"/>enough of themſelves, without any diſcipline or inſtruction, who can part with friends, kindred, Parents, partners in the ſtate of marriage, or children, and yet not to be moved at all for any of them; and for ſuch a diſpoſition as this, the mother of the <hi>Gracchi</hi> is commended by <hi>Plutarch</hi> (which I marvell at, ſince he was a profeſſed oppoſite to Stoicall opinions)
+<note n="*" place="margin">
+                  <hi>Plutarch</hi> in the life of <hi>Ti<g ref="char:EOLhyphen"/>ber</hi> and <hi>Cajus Gracchio</hi> pag. 841.</note> 
+               <hi>ſaying of her as in her praiſe, that ſhe uſed to report the untimely death of her two worthy Sonnes, as a Story without a teare,</hi> for therein me thinkes ſhe ſhewed more of the pride of an high-ſpirited Lady, then of the pitty of a kind hearted Mother.</p>
+            <p>But what an abſurdity is that for which ſome are taxed by
+<note n="¶" place="margin">
+                  <hi>Plutarch</hi> in the life of <hi>Ci<g ref="char:EOLhyphen"/>cero,</hi> p. 878.</note> him (in the life of <hi>Cicero</hi>) <hi>who while others tooke on for the death of a dogg or an horſe, for children or friends ſhewed no ſorrow at all?</hi>
+            </p>
+            <p>The want of this naturall affection, is the ground of many fearfull temptations, which ſometimes proceed to unnaturall executions, whereof we may reade many crimſon Characters, both in forraigne and domeſtick Stories; but we began not with vineger to end in bloud.</p>
+            <p>Now for the oyle: if ſuch an Arch-Patriarch as <hi>Jacob</hi> (for he was the Father of the Patriarchs) were ſo dearly affected to his Sonne <hi>Beniamin,</hi> that his death would kill him that be<g ref="char:EOLhyphen"/>gate him to life; this may be as oyle, to mollifie the miſcon<g ref="char:EOLhyphen"/>ceit of ſome, who are too rigorous in cenſures of ſuch, as are of a tender and an affectionate Nature, and like unto holy <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> or his beſt beloved <hi>Rachell,</hi> apter to drink deepe of the bit<g ref="char:EOLhyphen"/>ter potion of ſorrow, then to take a taſte of the cup of comfort againſt it; <hi>when it is with them,</hi> as
+<note n="*" place="margin">
+                  <hi>Partem mali<g ref="char:EOLhyphen"/>putant audire<g ref="char:EOLhyphen"/>ſalutem.</hi> Senec. <hi>conſolat. ad</hi> Martiam. c 5.</note> 
+               <hi>Seneca</hi> wrote to <hi>Martia, made as a part of the griefe, to heare any thing of the Conſolations of life.</hi>
+            </p>
+            <p>And if I would make choyce of an extreame, it ſhould ra<g ref="char:EOLhyphen"/>ther be of that which is neare of kinne to naturall kindneſſe, then of that which cometh ſo neare to a Stoicall Apathy: for not only good men, but as wiſe men as any of that Sect, have ſhewed themſelves moſt tenderly and affectionately diſpoſed towards their children, both living and dead: and we ſee by the Teſtimony of a grave
+<note n="‖" place="margin">Plutarch <hi>ubi ſupra.</hi>
+               </note> Authour concerning <hi>Cicero,</hi> who upon the death of his daughter by child-birth (though he
+<pb n="14" facs="tcp:32823:13"/>were viſited by Philoſophers and learned men that came on all ſides to comfort him) tooke her death ſo ſorrowfully to heart, that he put away his ſecond wife, becauſe he thought ſhe did re<g ref="char:EOLhyphen"/>joyce at her death.</p>
+            <p>Wherein we allow him rather as a Father, then as an hus<g ref="char:EOLhyphen"/>band: for his mourning for his daughter was an Argument of good nature, but the caſting off his wife upon that occaſion) might be a ſigne of too much ſuſpition of her, and of too little of that affection which was due to a wife.</p>
+            <p>But for that love which is naturall (yet ſuch an enemy to Nature, as by too much favour to the object afflicts the Subject unto death) though whereſoever it is found, in ſuch a degree of exceſſe, it muſt be acknowledged for a fault; yet ſuch is the priviledge of Gods children, that even faults whoſoever they be, their own eſpecially may be of uſeful conſideration to themſelves and to others; to <hi>themſelvs</hi> for their humbling; <hi>to others</hi> for their warning and for their comfort, that though their kindnes to an<g ref="char:EOLhyphen"/>other ſhould prove ſo cruell, as to kill their owne bodies, yet that the conceit of that killing may not through diſtruſt or diſpaire endanger their ſoules.</p>
+            <p>For the firſt, though (as a Mother) the affections of the pi<g ref="char:EOLhyphen"/>ous Matron (whoſe death hath ſpread a black cloud upon a great part of this Aſſembly) were ſo ſtrong as a Chriſtian, her underſtanding was not ſo weake, as not to diſcerne the errour of her love: for ſhe tooke notice of it, and accuſed her ſelfe for it, and had the more ſpirituall ſorrow, becauſe her carnall ſor<g ref="char:EOLhyphen"/>row for her daughter (if we may call it carnall, which was ſet upon her, rather as Gods child, then as her owne) was ſo immoderate (whereof though I were an eare-witneſſe) I tooke no exception at her accuſation of her ſelfe, becauſe I ſaw her ſorrow was a <hi>godly ſorrow working repentance to ſalvation, not to be repented of,</hi> as the Apoſtle ſpeaketh, 2 <hi>Corinth.</hi> 7.10.</p>
+            <p>Yet now ſhe heares me not (that none may miſtake her ſtate with injury to her, or miſery to themſelves, as if to die of griefe were a ſinne, <hi>A ſinne unto death,</hi> 1 John 5.16. of ſuch a ſelfe-killing guilt, as conſiſt with the ſafety of the ſoule) me thinkes, I may thus reſolve touching the reciprocall operation
+<pb n="15" facs="tcp:32823:13"/>of the diſtemper of her mind and body.</p>
+            <p>Firſt, Though in the weekly Bill of mortality, we find few that die of her diſeaſe, yet there are every where examples of divers, who expedite their owne deaths, either by intempe<g ref="char:EOLhyphen"/>rance of dyet, or purſuit of pleaſures, by intempeſtine Stu<g ref="char:EOLhyphen"/>dies, and too laborious employments, and many (when they thinke to cheriſh nature) doe by too much caſe, charineſſe and curioſity, weaken it and ſometimes finally overthrow it: yet none of them, no not they whoſe exceſſe is moſt faulty (if they dyed true Penitents) were ever by any judicious Divine or Chri<g ref="char:EOLhyphen"/>ſtian doomed to the ſecond death.</p>
+            <p>Secondly, If any exceſſe be capable of defence, it is that of love, eſpecially when it is ſet upon an object amiable, not on<g ref="char:EOLhyphen"/>ly in the eyes of naturall Parents, but of our ſpirituall and hea<g ref="char:EOLhyphen"/>venly Father, and for hers in particular, if we compare it with <hi>Jacobs</hi> love to, and his griefe for <hi>Beniamin</hi> (in caſe he had miſ<g ref="char:EOLhyphen"/>carried) it is more capable of excuſe then his could be: For theſe reaſons.</p>
+            <p>Firſt, The <hi>Female Sex</hi> (out of a naturall tenderneſſe (atten<g ref="char:EOLhyphen"/>ding upon it) is more diſpoſed both to love and compaſſion then the Male; and therefore where God ſetteth forth his ſin<g ref="char:EOLhyphen"/>gular affection to his people, he doth it by compariſon of him<g ref="char:EOLhyphen"/>ſelfe, with a woman, not with a man, <hi>Iſai.</hi> 49.15. and what is more conſonant to nature, is more capable of pardon, if it ſom<g ref="char:EOLhyphen"/>what exceed.</p>
+            <p>Secondly, <hi>Iacob</hi> had many ſonnes, at leaſt twelve, and all twelve alive, at the laſt when he bleſſed them upon his death<g ref="char:EOLhyphen"/>bed; of which he loft not one by death, but one in his con<g ref="char:EOLhyphen"/>ceit, and that but for a time, whoſe abſence was recompenced with comforts beyond expectation, even to admiration, they were ſo many for number, ſo rare for degree; but ſhe having had divers children, was by their death deprived of them all.</p>
+            <p>Thirdly, of <hi>Iacobs Beniamin</hi> we reade no great matter of Commendation, either for piety or any other vertue, and there is ſomewhat ſaid of him (even by him who loved him ſo dearly, and that in the laſt words he ſpake of him) which im<g ref="char:EOLhyphen"/>plyeth rather matter of reproach then of praiſe, Benjamin <hi>ſhall
+<pb n="16" facs="tcp:32823:14"/>ravine as a Wolfe, in the morning he ſhall devoure the prey, and at night, he ſhall divide the ſpoyle,</hi> Gen. 49.27. But our <hi>Rachels Phe<g ref="char:EOLhyphen"/>be,</hi> was an innocent and harmleſſe lambe.</p>
+            <p>A child of about 12. yeares old, as like him for piety (who, when he was but twelve yeares old, was <hi>found in the Temple hearing the Doctors and asking them Queſtions,</hi> Luk. 2.42, 46.) as any of her Sex, and that age within the compaſſe of my ac<g ref="char:EOLhyphen"/>quaintance.</p>
+            <p>Her piety and charity, were commendable in any age, ad<g ref="char:EOLhyphen"/>mirable in one ſo young as ſhe was: I will give a briefe touch of both (ſince they are the principall qualifications of a Chri<g ref="char:EOLhyphen"/>ſtian) and the rather, becauſe though
+<note n="*" place="margin">In <hi>Cheſter.</hi>
+               </note> here ſhe was borne, and lived to honour God with a ſingular example of ſanctity (for one ſo young) yet here ſhe dyed not, and therefore had not here, that commendable mention made of her, which in this place was due unto her; whereof I will give you ſuch a report, as is like unto an Eccho, reſounding back a few ſillables for many words of her
+<note n="¶" place="margin">Preached at <hi>Alderley</hi> where ſhe dyed and was buried.</note> 
+               <hi>Funerall Sermon:</hi> and this for yours, and your childrens ſakes, that they may be induced to become godly betimes; and feare not the ſaying, <hi>a young Saint, an old devill,</hi> for that is one of the old devills Proverbs, and prophe<g ref="char:EOLhyphen"/>cies as falſe as himſelfe, who never ſpeakes truth, but to make way for beliefe of a lye, and the contrary is regularly true, <hi>A young Saint, an old Saint, a young Devill an old De<g ref="char:EOLhyphen"/>vill.</hi>
+            </p>
+            <p>Firſt, for her Piety, it was ſuch (for a child) as muſt needs argue her the child of God, and by ſuch evidences as theſe.</p>
+            <p>Firſt, ſhe ſet her ſelfe an holy and daily taske for prayer and reading of the Scripture: wherein if by any occaſion ſhe were in<g ref="char:EOLhyphen"/>terrupted ſhe was very much troubled, and this ſhe did not <hi>for<g ref="char:EOLhyphen"/>mally,</hi> but <hi>affectionately;</hi> which may appeare by theſe particulars.</p>
+            <p n="1">1. By her ſerious enquiries, and queſtions of the ſenſe and meaning of that ſhe read.</p>
+            <p n="2">2. By her conſtant care to keepe cloſe to the rules of it, for feare, leaſt in any thing, ſhe ſhould doe contrary unto it.</p>
+            <p n="3">3. By her ſcruple and trouble of mind, if in any thing
+<pb n="17" facs="tcp:32823:14"/>ſhe digreſſed from her duty to God or man commanded in the word.</p>
+            <p>Fourthly, if any doubt or caſe of conſcience aroſe, where in favour to her ſelfe, and honour to God by way of competiti<g ref="char:EOLhyphen"/>on, came in for preheminence; as whether ſhe ſhould abridge her ſelfe of lawfull liberty on the Sabbath day, or make a breach upon it, by a prophane imployment of any part of it, ſhe was much more ready to be injurious to her ſelfe, then ſacrilegious to God.</p>
+            <p>Wherof I ſhall relate unto you a ſtrange, but a true Story, which I know very well, for (it was in a paſſage of conference betwixt her and me, yet in the preſence of divers others, who may yet remember it.) It was thus, Upon ſome ſpeeches againſt the vio<g ref="char:EOLhyphen"/>lation of the religious reſt of that day by carnall recreations, ſhe ſhewed her diſlike of dancing on the Sabbath, ſo farre as to ſay, ſhe would rather die then doe it, I told her with com<g ref="char:EOLhyphen"/>mendation of her Chriſtian care and zeale to keepe it (not on<g ref="char:EOLhyphen"/>ly holy for the manner, but wholly for the meaſure) that ſo ſhe might make her ſelfe more guilty of the breach of the ſixt Commandement by her reſt, then of the fourth by her moti<g ref="char:EOLhyphen"/>on: for if her dancing were not an exerciſe of delight unto her ſelfe, but done as a worke of mercy for preſervation of her life, and ſo profeſſed to ſuch as would compell her to doe it, it was no breach of piety, but an act of charity, as lawfull as the labour beſtowed to <hi>lift up an Oxe out of the pit</hi> leaſt he ſhould die there,
+<note place="margin">Luk. 14.5.</note> which is allowed by our Saviour, and ſo much more warran<g ref="char:EOLhyphen"/>table, as the life of a Chriſtian is of more worth, then the life of a beaſt: Againſt which, though ſhe could ſay little, I found ſomewhat to doe, to free her from the fetters of her for<g ref="char:EOLhyphen"/>mer opinions; ſo deeply did Doctrines of ſelfe-deniall ſinke into her heart, though ſhe were yet but of that age, which u<g ref="char:EOLhyphen"/>ſeth to make ſcruple of nothing, and to deny nothing to it ſelfe, which hath any ſavour of ſenſuall delight.</p>
+            <p n="2">2. Secondly, for her Charity, (let her Piety ſtand for an a<g ref="char:EOLhyphen"/>bridgement of the firſt Table, and her charity will ſerve for the ſame in the ſecond) ſhe was kind and courteous towards all, tender hearted to the diſtreſſed, deſirous (if any breach were made betweene any of the family) to make it up quickly
+<pb n="18" facs="tcp:32823:15"/>by hearty reconcilement.</p>
+            <p>And to the poore ſhe was exceedingly pittifull, interceding for them, giving of her own unto them. For which purpoſe, ſhe got a little ſtock before hand (for her Parents ſeeing ſhe was ſo well-minded, would not ſuffer her to be empty handed) and that ſtocke ſometimes ſhe adventured all at once (as goods in a weather-beaten Barke) by way of loane to ſome poor perſon in extreame neceſſity; where may we find ſo much upon record of <hi>Iacobs Beniamin?</hi>
+            </p>
+            <p>On theſe two points, Piety and Charity, hang all the Law, and the Prophets, and theſe two were ſo habitually ſetled in her, that in the exerciſe of both (ſo farre as others could judge) ſhe took much delight.</p>
+            <p>How could it be but a delight to any godly Parents to have ſuch a child? How but a great griefe to be deprived of her, who was like (if ſhe had lived) to have been an excellent patterne to both Sexes, and every age to which ſhe attai<g ref="char:EOLhyphen"/>ned.</p>
+            <p>And the better ſhe was, the more lovely in the eyes of God and of all that are good, and her goodneſſe doubtleſſe was that which ſo united the ſoule of her good mother to hers, that they could not part, but (as <hi>Iacob</hi> and <hi>Beniamin</hi>) with the perill of life.</p>
+            <p>By this child you may make ſome conjecture of her Mother; for children (eſpecially in their minority) owe much unto their Mothers, for their godly education, ſo did King <hi>Lemuel</hi> to his, <hi>Prov.</hi> 31.1. and <hi>Timothy</hi> to his Mother and Grand-mo<g ref="char:EOLhyphen"/>ther both, 2 <hi>Tim.</hi> 1.5.</p>
+            <p>And though grace be of God, it is regularly conferred by meanes, and religious inſtruction of children, and exemplary converſation of their Parents, is a meanes, which God many times bleſſeth with gracious effects: So that wheras moſt make boaſt of their Parents (as
+<note n="*" place="margin">
+                  <hi>Ioſephus</hi> in the beginning of his life written by himſelfe.</note> 
+               <hi>Ioſephus</hi> of his, <hi>Know therefore that I am not baſely, but nobly deſcended, being both on the Fa<g ref="char:EOLhyphen"/>thers and Mothers ſide derived from the line of the Prieſts</hi>) in reaſon there is cauſe, rather for Parents to glory in good children: ſince God (many times) maketh them uſefull in<g ref="char:EOLhyphen"/>ſtruments of their goodneſſe: But ſeldome (on the contrary)
+<pb n="19" facs="tcp:32823:15"/>is the Parents goodneſſe effected by any means either of exam<g ref="char:EOLhyphen"/>ple or inſtruction of their children.</p>
+            <p>Howſoever ſhe (this grave Matron I meane) had not bin ſo happy, as to be the Mother of ſo religious a daughter, ſhe was in her ſelf well worthy both of our commendation and of others imitation.</p>
+            <p>Firſt, as a Woman. Secondly, as a Wife. Thirdly, as a Mother. Fourthly, as a miſtreſſe, Fiftly, as a friend. Sixt<g ref="char:EOLhyphen"/>ly, (which is the chiefeſt of all) as a Chriſtian.</p>
+            <p>Under theſe particular Titles, we might make diſcourſe for a whole houre, but I will wind up all (as many long threds) into a little clew.</p>
+            <p>Firſt, as a Woman, ſhe was gravely and venerably mo<g ref="char:EOLhyphen"/>deſt.</p>
+            <p>Secondly, (as a Wife) ſhe was loving, loyall and pleaſing to her husband, never repining at any beneficence beſtowed upon his friends, but freely and affectionately aſſenting to what was done in that kind, as if it had bin done to her owne kindred; and therein ſhee hath beene quitted with a kind retaliation to thoſe of her alliance: ſhee was an helper to her yoake-fellow (in all his affaires) by taking upon her ſelfe, all houſhold cares, and ordering them like a prudent and faithfull Steward, and ſo much the more, as he (partly out of the cumber of occaſions of his calling, and part<g ref="char:EOLhyphen"/>ly in confidence of her diſcretion) was the more neglectfull of them; which ſhe obſerving, cauſed a ſummary or inventory to be taken of what was in the houſe and under her hands, and this (as a kind of Legacy in her laſt ſickneſſe) ſhe bequeathed to him with advice, hereafter to take it into his owne conſi<g ref="char:EOLhyphen"/>deration with more circumſpection: and as during the time of their marriage, ſhe lived with him in a moſt amiable manner (betwixt 24 and 25 yeares together) ſo at laſt, ſhe tooke her leave of him, with as many affectionate expreſſions, as could poſſibly proceed from a ſoule ready to take her flight from earth to heaven.</p>
+            <p>Thirdly as a Mother, I need ſay nothing, but that as ſhe was to her pious daughter departed, ſo was ſhe proportionably care<g ref="char:EOLhyphen"/>full of, and affectionate to the reſt of her children, while ſhe en<g ref="char:EOLhyphen"/>joyed
+<pb n="20" facs="tcp:32823:16"/>them, but they as blazing Starres (but of ſhort continuance) ſhined for a while, and then vaniſhed out of ſight.</p>
+            <p>Fourthly, As a Miſtreſſe, ſhe ſo ordered the government of her ſervants, as to make them as loath (out of love as out of feare) to offend her, forbearing rebukes, but when neceſſity did require them, and ſo tempering them, when there was need, that they might neither (through levity) incline to contempt, nor through rigour to hate.</p>
+            <p>Fiftly, As a Friend ſhe was kind, free, hearty, truſty, for<g ref="char:EOLhyphen"/>ward to act her part to the full in friendly commerce, and as ready to take in good part what came from a friendly mind, though it were not preſented in all the demonſtrations of plea<g ref="char:EOLhyphen"/>ſing reſpect.</p>
+            <p>Sixtly, As a Chriſtian, ſhe was devout in holy duties both of the ſolemne Aſſemblies, the Family, and the <hi>Cloſſet,</hi> which (when by ſickneſſe ſhe was ſuſpended from the publike ſervice of God in the Church) ſerved unto her for a Chappell of eaſe, though it were a great griefe unto her, that ſhe could not <hi>praiſe the Lord in the great Congregation,</hi> Pſ. 22.25. nor enjoy the com<g ref="char:EOLhyphen"/>munion of Saints ſo fully as before, yet (when ſhe bare her part of the publike worſhip) her accuſtomed manner was (as thoſe who were neareſt to her have obſerved) thrice a day to betake her ſelf to her private devotion of reading, meditation and pray<g ref="char:EOLhyphen"/>er, wherin (beſides her conſtant reading of three Chapters, and ſome portion of the <hi>Pſalmes</hi> every day) ſhe ſpent ſome houres in other good books as opportunity ſerved. Hereby ſhe ſtreng<g ref="char:EOLhyphen"/>thened her faith, humbled her ſoule in the ſevere (yet ſaving) martyrdome of ſincere Repentance) quickned her watch over her ſpirituall eſtate, for prevention of the encroachment or ſur<g ref="char:EOLhyphen"/>prizall of ſin, and ſo by fearing even to a gnat of ſin, ſhe kept her conſcience at great diſtance and farr out of danger of ſwallow<g ref="char:EOLhyphen"/>ing of Camels.</p>
+            <p>Her profeſſion and practice of Piety (in this ſort) was ſecu<g ref="char:EOLhyphen"/>red from all ſuſpition of hypocriſie, by her anſwerable meaſure of charity and patience: For the firſt, ſhe was of a free diſpo<g ref="char:EOLhyphen"/>fition in her houſe, compaſſionate to the <hi>poor,</hi> and liberal to them, wherof I need ſay the leſſe, by how much the more they bemoan
+<pb n="21" facs="tcp:32823:16"/>her loſſe, <hi>on which bare,</hi> and barren ſoil (bare and barren in reſpect of men, but very fruitfull by the plentiful repaiment of God, who makes himſelf a ſurety for what is beſtowed upon the poor, <hi>Pro.</hi> 19.7.) ſhe ſowed ſo much ſeed, that as it were <hi>caſting her bread upon the waters,</hi> Eccl 11.1. in conſidence of divine recompence no doubt ſhe finds a more bountifull hand then her own, reſto<g ref="char:EOLhyphen"/>ring unto her, her layings out of that kind with advantage.</p>
+            <p>Her Patience is one of the particulars, which was moſt ap<g ref="char:EOLhyphen"/>parant in the latter part of her life, which beginning with her ſickneſſe, held out to her death: She had a ſore ſickneſſe, and of long continuance, from <hi>Whitſontide</hi> untill after <hi>Bartholmew<g ref="char:EOLhyphen"/>tide,</hi> (which was the time of her darling daughters advance<g ref="char:EOLhyphen"/>ment to her heavenly Father) ſhe had not one houres caſe in a day from her paine, and yet ſhe bore all with very much pa<g ref="char:EOLhyphen"/>tience, and much of it alſo with lightſomeneſſe; which though it were marvelled at by ſuch as obſerved it, ſhe thought ſhe had too little of that found and ſolid vertue; and made it her prayer very oft, to have more of it, that it might proceed with an even pace to her paines, ſo that the one might be encreaſed with the other.</p>
+            <p>But indeed it ſeemed, God rather aſſwaged her paines, for the moſt part of the weeke wherein ſhe dyed, ſhe was much given to ſlumbers, but as it is ſaid of the Church, <hi>Cant.</hi> 5.2. <hi>I ſleepe but mine heart waketh;</hi> ſo might ſhe have ſaid, for ſo it appeared ſhe did; for on the ſodaine, ſhe would breake through a ſlumber, (as it were a ray of lightning breaking through a Cloud) with ſuch pathetick ejaculations as theſe, <hi>Lord pardon, Lord pardon, Mercy good Lord, Mercy.</hi>
+            </p>
+            <p>While ſhe had the free uſe of her ſpeech, ſhe promptly ap<g ref="char:EOLhyphen"/>plyed many places of Scripture, which moſt fitly appertained to her preſent condition; and when it failed, as it did a little before her end; ſhe recovered it againe, to give ſome vent to her intentive mind, in ſuch paſſages as theſe; <hi>Lord I beleeve, help my unbeliefe; the Lord is my rock and my defence, therefore I will truſt in him;</hi> and her truſt was not deceived, for her gratious Father, dealing with her with much favour and ten<g ref="char:EOLhyphen"/>derneſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, did not breake aſunder, but gently unlaced the bonds of life, ſo that ſhe departed, in ſuch a calme and quiet manner,
+<pb n="22" facs="tcp:32823:17"/>that none ſtanding by, could perceive any pangs or ſtruglings, when the divorce was made betwixt her ſoule and body.</p>
+            <p>I will commend but one thing more to your memory of this religious <hi>Rachel,</hi> and it is, That her Piety was not a goodneſſe of the ſcant meaſure of many of the world, who allow God but ſome part or portion of their lives, (having many excur<g ref="char:EOLhyphen"/>ſions out of the rode-way of Religion) ſerving God with a <hi>Synechdoche</hi> of a part for the whole:) for ſhe began to be godly betime, and held on to her end, with ſuch an uniforme te<g ref="char:EOLhyphen"/>nour of piety and integrity, that her perſeverance aſſureth us of her faithfulneſſe to the end; and we are ſure then, that accor<g ref="char:EOLhyphen"/>ding to promiſe and propheſie of the Scripture, <hi>Rev.</hi> 2.10. <hi>She hath obtained the Crowne of life,</hi> which ſhe ſhall never put off, but weare it for ever.</p>
+            <p>Shall we ſay here is an end of her.
+<note place="margin">Applic.</note> I did not propoſe her praiſe (as ſome may haply conceive) meerely, or chiefely to gratifie her friends, but principally to edifie the hearers in ge<g ref="char:EOLhyphen"/>nerall, by ſuch obſervations of the courſe of her life, and man<g ref="char:EOLhyphen"/>ner of her death, as may redound to the benefit of all, by a ſerious conſideration and imitation of her vertues: For God ſets forth ſuch examples for patternes, that thoſe who are not ſo pliable to the practiſe of preſcribed rules, as they ſhould be, may be led on by examples, and certainely if they be not the better for them, it ſhall goe the worſe with them; for if the Queene of the South ſhall riſe up in judgement and condemne the generation which never ſaw her,
+<note place="margin">Mat. 12.42.</note> how much more ſhall ſo many holy and worthy examples condemne the wicked, who ſee or may ſee their holy behaviour, and take no heed nor care to conforme unto them.</p>
+            <p>But it may be, they doe not beleeve the reports of their piety, and why doe they not? becauſe ſometimes men (even Prea<g ref="char:EOLhyphen"/>chers) laſh out in exceſſive commendation of them, farre a<g ref="char:EOLhyphen"/>bove their deſerving: If it be ſo, the more is their ſinne, and the greater one day will be their ſhame; but certainely there are many that are farre more holy then the wicked of the world will eaſily believe: and one maine cauſe of their diffidence and diſtruſt is, becauſe of their own guilt, and unacquaintance in the wayes of godlineſſe.</p>
+            <pb n="23" facs="tcp:32823:17"/>
+            <p>They will not believe that illiterate, unlearned Lay-men are able in prayer to powre forth their ſoules with patheticall and plentifull expreſſions, they have not been eare-witneſſes of any ſuch gift of Gods Spirit, and therefore they will give no credit to thoſe that report it; but doubtleſſe there are ſuch men and women too, and there are ſuch gifts manifeſted by their exerciſe of them; and I have heard it, from the mouth of a very
+<note n="†" place="margin">M<hi rend="sup">r</hi> 
+                  <hi>S G.</hi>
+               </note> faithfull witneſſe, that a man of as eminent place in the Church, and of as eminent parts and proficiency in all kind of knowledge, (eſpecially in Divinity) as any is to be found in all his Majeſties Dominions, hath acknowledged, <hi>That he hath heard a Lay-man in a Leatherne Jacket, pray by heart, without Art or Booke, and with ſuch an evidence and demonſtra<g ref="char:EOLhyphen"/>tion of the Spirit, as hath made him much aſhamed of his own de<g ref="char:EOLhyphen"/>fects and diſabilities to performe that duty of devotion, in ſuch a man<g ref="char:EOLhyphen"/>ner and meaſure as he did.</hi>
+            </p>
+            <p>But they that have not had ſome experimentall proofe of this kind, entertaine ſuch reports, (many times) as not only untrue, but as impoſſible, when they ſhould thinke all things eaſie and poſſible with God, <hi>Mat.</hi> 19.26. and they may find (if they would marke it) ſomewhat in experience betwixt the divell and themſelves, which might induce them to be<g ref="char:EOLhyphen"/>lieve a ſtrange and ſtrong operation of Gods Spirit in his chil<g ref="char:EOLhyphen"/>dren. For doth not that powerfull impoſtor ſometimes ſo prevaile with their corrupt nature, as by his ſuggeſtions to ſway them againſt the evident direction of Gods Word, the light of their own reaſon, the bent of their own reſolutions, the checks of their convinced conſciences, the example of all good men, though they can expect none other end of that way wherein the Devill drives them, then the ruine of their ſoules.</p>
+            <p>And ſhall not the Father of lights, the Authour of every good and perfect gift (who could make the dumbe Aſſe to ſpeake more wiſely then his rider, though a Prophet) endow thoſe whom by peculiar favour he hath choſen to be his, with what portion of ſpirit of illumination and ſanctification, plea<g ref="char:EOLhyphen"/>ſeth himſelfe, and guide both their minds and tongues, and all their faculties to ſuch effects as he thinks fit for his own glory and the good of his people.</p>
+            <pb n="24" facs="tcp:32823:18"/>
+            <p>Doubtleſſe though all have not the Spirit that pretend to have it, nor the gift of prayer who take upon them to pray by the Spirit; there are divers that have it, and give proofe of it, in ſuch ſort as cannot be gaine-ſaid, and more in this age then in any other ſince the Primitive Doctors, who had a conſtant and infallible guidance of the Spirit, were advanced from earth to Heaven. And their examples are as conſiderable in their ordinary practiſe of Religious precepts, as in the exerciſe of their extraordinary gifts. Yet I propoſe none, though a Pa<g ref="char:EOLhyphen"/>triarch, a Prophet, an Apoſtle or Martyr, much leſſe any one below them to imitation, without the limitation of S. <hi>Paul. Be ye followers of me, even as I am of Chriſt,</hi> 1 Cor. 11 1. For example, though <hi>Jacob</hi> and <hi>Rachel</hi> were very good people, yet be not like unto him in his immoderate affection to <hi>Ben<g ref="char:EOLhyphen"/>jamin,</hi> nor unto her in ſuch a wilfull bewailing of her Orbity, as would not admit any conſolation becauſe ſhe was childleſſe.</p>
+            <p>Let us rather conſider what may be ſaid to quiet and be<g ref="char:EOLhyphen"/>calme our paſſions, that they grow not too head-ſtrong, for Religion and reaſon to rule them. Be our loſſe what it may be, we ſhould beare it without repining or impatience, and that for reaſons of weight taken both from God and man.</p>
+            <p>From God, concerning whom we muſt take notice.</p>
+            <p>Firſt of his Authority over us. Secondly of his intention. 1. towards us, and 2. towards ours.</p>
+            <p>For the firſt, It is <hi>God that killeth and maketh alive,</hi> Iſa. 45.7. and this he doth, not only <hi>de Facto,</hi> but <hi>de Jure,</hi> he hath not on<g ref="char:EOLhyphen"/>ly a power to doe ſo, but a right alſo, for we are all of us, unto him, as the clay in the hands of the Potter, not only to make us veſſells of honour, or diſhonour, as he pleaſeth, but (when we are made) to daſh us in pieces, if we pleaſe him not; and ſhall we then be diſpleaſed with him, when (as the owner of the Vineyard demanded of the murmuring labourer, <hi>Mat.</hi> 23.15.) he doth but what he will with his owne.</p>
+            <p>Indeed we uſe to ſpeake of what we poſſeſſe, with a tearme of propriety, <hi>my</hi> Wife, <hi>my</hi> Husband, <hi>my</hi> Child, <hi>my</hi> Friend; but our Title to them is not originall, but derivative from him, and by way of ſubordination under him: for we and they are his, made by him and for him, they to us are but lent, and
+<pb n="25" facs="tcp:32823:18"/>ſo lent, (without any certaine time or date) that we cannot (in right) ſay he calls backe, or takes away too ſoone, if it were the ſame day of our firſt poſſeſſion of them: and if we have enjoyed them long, the leſſe time, in reaſon there re<g ref="char:EOLhyphen"/>maineth for the future, and ſo we ſhould the ſooner prepare for a parting. And when it cometh to that, we ſhould con<g ref="char:EOLhyphen"/>ſider <hi>what intents God may have in taking away from us, that which is deare unto us.</hi>
+            </p>
+            <p>Firſt, it may be (as the Widow of <hi>Sarepta</hi> ſaid when her Sonne was dead) <hi>to call our ſinnes to our rememberance,</hi> 1 King. 17. <hi>ver.</hi> 18. a child or friend of ours is dead, that we may not dye in ſins and treſpaſſes without repentance.</p>
+            <p>Secondly, it may be (with our other ſinnes) we may be guilty of ſome kind and degree of Idolatry, by ſetting that delight upon the creature, which of right belongs to the cre<g ref="char:EOLhyphen"/>ator alone; and if ſo, we are <hi>ſpirituall adulterers and adultereſ<g ref="char:EOLhyphen"/>ſes,</hi> James 4.4. <hi>and God is a jealous God,</hi> Exo. 20.5. who diſco<g ref="char:EOLhyphen"/>vering a decay of our love that we might love him better, will take away the impediment betwixt him and us, which was as a curtain or ſcreene to intercept our ſight, and the heate of our hearts towards him. As a diſcreet Lady, if ſhe ſhould per<g ref="char:EOLhyphen"/>ceive that her Waiting-woman ſtole any part of the Nuptiall affection of her Husband from her, would find ſome meanes to put her away: And God very well knoweth that our hearts are narrow, our love but little and faint, a great deale too lit<g ref="char:EOLhyphen"/>tle for himſelfe, if it went all one way, and therefore if he love us he will take away that which ſteales away our affe<g ref="char:EOLhyphen"/>ctions from him, that our love being ſet upon him more in<g ref="char:EOLhyphen"/>tentively, he may returne more kindneſſe to us againe, and ſo his end may be to croſſe us in our way that he may bleſſe us in the end, <hi>that he may doe us the more good at our latter end,</hi> as is promiſed, <hi>Deut.</hi> 8. <hi>v.</hi> 16.</p>
+            <p>Thirdly, Gods intent in taking away, may be in favour to the deceaſed parties, to ſet them ſafe out of perill, <hi>the Righteous is taken away from the evill to come,</hi> Iſa. 57.1. and of this the cauſe is ſo evident in reaſon, that he that never ſaw the Bible, nor read that ſentence of the Prophet, could ſay, <hi>who knoweth that God hath not taken away in favour to man-kind from the evill to come.</hi>
+               <pb n="26" facs="tcp:32823:19"/>So
+<note n="*" place="margin">Plutarch <hi>con<g ref="char:EOLhyphen"/>ſolat. ad</hi> Apo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. <hi>pag.</hi> 528.</note> 
+               <hi>Plutarch</hi> in his Conſolations to <hi>Apolonius.</hi>
+            </p>
+            <p>And this cauſe is eſpecially conſiderable in theſe times where<g ref="char:EOLhyphen"/>in many good people have of late been taken away, and we may have cauſe to conceive from the evill to come, there may come much evill without any preface or premonition at all; but we ſee nothing but diſmall clouds gathering in our horizon, and as it were preparations for terrible ſtormes.</p>
+            <p>Our ſinnes doubtleſſe are come to a very great height, and who knoweth whether their guilt be not more clamerous for vengeance, then our prayers are importunate for pardon? We ſee things grow worſe and worſe with us, a few grow better and better, to pacifie Gods diſpleaſure by due reforma<g ref="char:EOLhyphen"/>tion. And therefore for ſuch of the better ſort as are taken away in thoſe times as this vertuous Matron, after the courſe of an holy life on earth, wee may conceive it is done that they may live in reſt, and peace, and joy, and glory with God for ever. There is cauſe then to give thankes to God for their happy change, ſince they are ſet up ſo ſafe, that they ſhall never feele nor feare the evill to come, and to mourne, not for them but for our ſelves, that we are left below, in a ſtate of ſub<g ref="char:EOLhyphen"/>jection to all ſorts of ſorrowes, which may the ſooner over<g ref="char:EOLhyphen"/>whelme us, becauſe they are taken away (as <hi>Lot</hi> out of <hi>Sodome,</hi>) for whoſe ſakes haply hath the judgement been ſuſpended hi<g ref="char:EOLhyphen"/>therto.</p>
+            <p>And hitherto having had your preſence, and I hope your at<g ref="char:EOLhyphen"/>tentions alſo to what I have delivered; I ſhall now commend you to the gratious favour of the Lord <hi>of life and death,</hi> Deut. 32.29. beſeeching him to teach you <hi>to number your dayes, that you may apply your hearts unto wiſedome,</hi> Pſal 90.12. and to give you <hi>wiſedome to conſider your latter end,</hi> Deut. 32.29. and all the while that you are in the way unto it, that you may by an holy life get ſound aſſurance to your ſoules, that (when your mortall bodies are laid aſleepe in the duſt of the earth) they may be re<g ref="char:EOLhyphen"/>ceived to a moſt happy conabitation with God in Heaven, in his preſence to be poſſeſſed <hi>of the fulneſſe of joy, and of the pleaſures at his right hand for evermore,</hi> Pſ. 16.11. Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32823:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
